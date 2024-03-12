@@ -2,17 +2,10 @@
 
 Welcome to my PHP repository! This repository contains various PHP scripts for learning and practice.
 
-## Usage
+## IDEs
 
-1. Clone the repository to your local machine:
-    ```bash
-    git clone https://github.com/your_username/php-repo.git
-    ```
-
-2. Navigate to the repository directory:
-    ```bash
-    cd php-repo
-    ```
+1. VS code Studio
+2. Repl.it
 
 3. Run the PHP scripts using a web server or command line PHP interpreter.
 
